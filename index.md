@@ -18,3 +18,6 @@ I have base knowledge in C#.
 - [PadawansTask3](https://github.com/dmitr12/PadawansTask3)
 - [PadawansTask4](https://github.com/dmitr12/PadawansTask4)
 - [PadawansTask5](https://github.com/dmitr12/PadawansTask5)
+- [PadawansTask6](https://github.com/dmitr12/PadawansTask6)
+- [PadawansTask7](https://github.com/dmitr12/PadawansTask7)
+- [PadawansTask8](https://github.com/dmitr12/PadawansTask8)
