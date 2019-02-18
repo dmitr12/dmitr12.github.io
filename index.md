@@ -8,5 +8,6 @@ I have base knowledge in C#.
 1. Music 
 2. Programming 
 
-## My_Projects
-[Tic_Tac](https://github.com/dmitr12/TicTac)
+## Links
+1. Codewars profile: [Dmitrijdd](https://www.codewars.com/users/Dmitrijdd)
+2. Project [Tic_Tac Toe](https://github.com/dmitr12/TicTac)
