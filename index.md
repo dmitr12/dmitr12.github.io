@@ -22,3 +22,10 @@ I have base knowledge in C#.
 - [PadawansTask6](https://github.com/dmitr12/PadawansTask6)
 - [PadawansTask7](https://github.com/dmitr12/PadawansTask7)
 - [PadawansTask8](https://github.com/dmitr12/PadawansTask8)
+- [PadawansTask9](https://github.com/dmitr12/PadawansTask9)
+- [PadawansTask10](https://github.com/dmitr12/PadawansTask10)
+- [PadawansTask11](https://github.com/dmitr12/PadawansTask11)
+- [PadawansTask12](https://github.com/dmitr12/PadawansTask12)
+- [PadawansTask13](https://github.com/dmitr12/PadawansTask13)
+- [PadawansTask15](https://github.com/dmitr12/PadawansTask15)
+
